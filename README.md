@@ -1,5 +1,5 @@
 # Turtle-Graphics-3000
-Python's unique "batteries included" philosophy includes support for creating some extremely interesting graphics.
+Python's unique "batteries included" philosophy includes support for creating some extremely interesting graphics. The free online version [is here](https://www.youtube.com/playlist?list=PLb_nLwX4CF6g56CUJEEhb5WiDUhU_sTi4).
 
 No longer three (3) separate opportunities, I've never seen a more [comprehensive coverage](https://www.udemy.com/course/introduction-to-turtle-graphics/?referralCode=640D3C0F33837ADAE793) of Python's Turtle Graphics module!
 
