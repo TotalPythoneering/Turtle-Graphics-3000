@@ -1,3 +1,11 @@
+# MISSION: tbd.
+# STATUS: tbd.
+# VERSION: 1.0.0
+# NOTES: tbd.
+# DATE: 2018-07-02 10:03:20
+# FILE: SETUP_DrawVectors.py
+# AUTHOR: tbd.
+#
 '''
 Activity: draw_vshape
 Re-using what we have learned.

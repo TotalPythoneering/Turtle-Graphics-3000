@@ -1,3 +1,11 @@
+# MISSION: tbd.
+# STATUS: tbd.
+# VERSION: 1.0.0
+# NOTES: tbd.
+# DATE: 2018-07-03 06:34:02
+# FILE: LAB_Vector01.py
+# AUTHOR: tbd.
+#
 '''
 Activity: ShapeRotation
 Can you invert a set of points?

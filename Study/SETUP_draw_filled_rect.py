@@ -1,3 +1,11 @@
+# MISSION: tbd.
+# STATUS: tbd.
+# VERSION: 1.0.0
+# NOTES: tbd.
+# DATE: 2018-07-04 10:16:34
+# FILE: SETUP_draw_filled_rect.py
+# AUTHOR: tbd.
+#
 import turtle as robot
 
 def draw_rect(pos, extents):

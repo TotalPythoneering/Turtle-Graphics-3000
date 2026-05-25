@@ -1,3 +1,11 @@
+# MISSION: tbd.
+# STATUS: tbd.
+# VERSION: 1.0.0
+# NOTES: tbd.
+# DATE: 2018-06-27 02:37:58
+# FILE: DEMO_font_box.py
+# AUTHOR: tbd.
+#
 import turtle
 
 def draw_line(pos, length, color):

@@ -1,3 +1,11 @@
+# MISSION: Package for the Python 3000 educational opportunity.
+# STATUS: Public Release
+# VERSION: 2.0.0
+# NOTES: Code: https://github.com/TotalPythoneering/Turtle-Graphics-3000
+# DATE: 2018-07-11 14:17:02
+# FILE: State.py
+# AUTHOR: Videos: https://www.youtube.com/playlist?list=PLb_nLwX4CF6g56CUJEEhb5WiDUhU_sTi4
+#
 import turtle
 
 

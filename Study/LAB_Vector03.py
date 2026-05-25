@@ -1,3 +1,11 @@
+# MISSION: tbd.
+# STATUS: tbd.
+# VERSION: 1.0.0
+# NOTES: tbd.
+# DATE: 2018-07-03 06:35:36
+# FILE: LAB_Vector03.py
+# AUTHOR: tbd.
+#
 '''
 Activity: ShapeScale
 Can you scale a set of points?

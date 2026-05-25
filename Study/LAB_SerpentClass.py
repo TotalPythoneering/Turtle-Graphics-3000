@@ -1,3 +1,11 @@
+# MISSION: tbd.
+# STATUS: tbd.
+# VERSION: 1.0.0
+# NOTES: tbd.
+# DATE: 2025-03-07 10:30:54
+# FILE: LAB_SerpentClass.py
+# AUTHOR: tbd.
+#
 import turtle
 ''' NEW: Also adding location & robot visibility concepts '''
 

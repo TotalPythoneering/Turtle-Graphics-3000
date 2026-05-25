@@ -1,3 +1,11 @@
+# MISSION: tbd.
+# STATUS: tbd.
+# VERSION: 1.0.0
+# NOTES: tbd.
+# DATE: 2018-06-27 05:54:00
+# FILE: LAB_Chess01.py
+# AUTHOR: tbd.
+#
 import turtle
 
 class ZCell:

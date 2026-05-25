@@ -1,4 +1,12 @@
+# MISSION: tbd.
+# STATUS: tbd.
+# VERSION: 1.0.0
+# NOTES: tbd.
+# DATE: 2018-07-13 10:49:46
+# FILE: LAB_SpotOnCoin.py
+# AUTHOR: tbd.
 # Lab: SpotOn
+#
 
 import turtle
 

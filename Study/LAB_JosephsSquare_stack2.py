@@ -1,3 +1,11 @@
+# MISSION: tbd.
+# STATUS: tbd.
+# VERSION: 1.0.0
+# NOTES: tbd.
+# DATE: 2018-07-12 02:56:28
+# FILE: LAB_JosephsSquare_stack2.py
+# AUTHOR: tbd.
+#
 import turtle
 
 colors = ("red", "black", "gold", "green")

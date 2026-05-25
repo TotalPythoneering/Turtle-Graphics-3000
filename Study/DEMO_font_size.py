@@ -1,3 +1,11 @@
+# MISSION: tbd.
+# STATUS: tbd.
+# VERSION: 1.0.0
+# NOTES: tbd.
+# DATE: 2018-06-27 05:27:30
+# FILE: DEMO_font_size.py
+# AUTHOR: tbd.
+#
 import turtle
 
 turtle.title("DEMO_font_size")

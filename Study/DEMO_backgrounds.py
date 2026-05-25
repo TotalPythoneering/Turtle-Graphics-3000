@@ -1,3 +1,11 @@
+# MISSION: tbd.
+# STATUS: tbd.
+# VERSION: 1.0.0
+# NOTES: tbd.
+# DATE: 2021-10-03 06:21:04
+# FILE: DEMO_backgrounds.py
+# AUTHOR: tbd.
+#
 import turtle as robot
 
 robot.bgcolor("#ffcc04")

@@ -1,3 +1,11 @@
+# MISSION: tbd.
+# STATUS: tbd.
+# VERSION: 1.0.0
+# NOTES: tbd.
+# DATE: 2025-03-07 11:47:54
+# FILE: LAB_draw_poly.py
+# AUTHOR: tbd.
+#
 
 import turtle
 

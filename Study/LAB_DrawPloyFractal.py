@@ -1,3 +1,11 @@
+# MISSION: tbd.
+# STATUS: tbd.
+# VERSION: 1.0.0
+# NOTES: tbd.
+# DATE: 2018-06-20 09:59:42
+# FILE: LAB_DrawPloyFractal.py
+# AUTHOR: tbd.
+#
 import turtle
 
 last = turtle.home()

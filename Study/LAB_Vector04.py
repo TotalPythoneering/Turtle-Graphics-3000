@@ -1,3 +1,11 @@
+# MISSION: tbd.
+# STATUS: tbd.
+# VERSION: 1.0.0
+# NOTES: tbd.
+# DATE: 2018-07-03 06:41:36
+# FILE: LAB_Vector04.py
+# AUTHOR: tbd.
+#
 '''
 Activity: ShapeMove
 Can you move a set of points?

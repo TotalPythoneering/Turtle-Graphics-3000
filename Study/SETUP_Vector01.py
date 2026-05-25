@@ -1,3 +1,11 @@
+# MISSION: tbd.
+# STATUS: tbd.
+# VERSION: 1.0.0
+# NOTES: tbd.
+# DATE: 2018-07-02 09:06:14
+# FILE: SETUP_Vector01.py
+# AUTHOR: tbd.
+#
 '''
 Activity: Name That Shape!
 Can you identify the glyph?

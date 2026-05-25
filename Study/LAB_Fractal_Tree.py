@@ -1,6 +1,14 @@
 #!/usr/bin/python3
+# MISSION: tbd.
+# STATUS: tbd.
+# VERSION: 1.0.0
+# NOTES: tbd.
+# DATE: 2018-06-20 10:59:04
+# FILE: LAB_Fractal_Tree.py
+# AUTHOR: tbd.
 # Classic Fractal
 # Colors: Makes 'level' easier to understand!
+#
 
 import turtle
 
