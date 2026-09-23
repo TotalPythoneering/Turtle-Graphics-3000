@@ -1,4 +1,4 @@
-# Turtle-Graphics-3000
+# Turtle Graphics- Level 3000
 Python's unique "batteries included" philosophy includes support for creating some extremely interesting graphics.
 
 No longer three (3) separate opportunities, I've never seen a more [comprehensive coverage](https://www.udemy.com/course/introduction-to-turtle-graphics/?referralCode=640D3C0F33837ADAE793) of Python's Turtle Graphics module!
@@ -12,3 +12,5 @@ If you can possibly afford to support the effort then you can gift me a 'cuppa o
 Happy Pythoneering,
 
 --- Randall Nagy
+
+p.s. We're creating a [related emulator](https://github.com/TotalPythoneering/Turtle9000) that you might enjoy?
