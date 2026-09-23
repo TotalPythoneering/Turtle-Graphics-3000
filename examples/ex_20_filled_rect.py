@@ -4,7 +4,7 @@
 # NOTES: Code: https://github.com/TotalPythoneering/Turtle-Graphics-3000
 # DATE: 2018-08-09 05:18:58
 # FILE: ex_20_filled_rect.py
-# AUTHOR: Videos: https://www.youtube.com/playlist?list=PLb_nLwX4CF6g56CUJEEhb5WiDUhU_sTi4
+# AUTHOR: Randall Nagy
 #
 ''' From squares, to rectangles '''
 

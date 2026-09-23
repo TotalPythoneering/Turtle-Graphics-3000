@@ -4,7 +4,7 @@
 # NOTES: Code: https://github.com/TotalPythoneering/Turtle-Graphics-3000
 # DATE: 2018-06-19 16:09:26
 # FILE: DEMO_draw_poly_grid.py
-# AUTHOR: Videos: https://www.youtube.com/playlist?list=PLb_nLwX4CF6g56CUJEEhb5WiDUhU_sTi4
+# AUTHOR: Randall Nagy
 #
 
 import turtle

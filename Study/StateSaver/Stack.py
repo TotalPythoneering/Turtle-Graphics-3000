@@ -4,7 +4,7 @@
 # NOTES: Code: https://github.com/TotalPythoneering/Turtle-Graphics-3000
 # DATE: 2018-07-12 04:32:50
 # FILE: Stack.py
-# AUTHOR: Videos: https://www.youtube.com/playlist?list=PLb_nLwX4CF6g56CUJEEhb5WiDUhU_sTi4
+# AUTHOR: Randall Nagy
 #
 import turtle
 
