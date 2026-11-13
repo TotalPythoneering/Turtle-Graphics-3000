@@ -6,13 +6,14 @@ No longer three (3) separate opportunities, I've never seen a more [comprehensiv
 Starting out, here is the complete source code and examples for my "Python 3000 - Turtle Graphics" educational 'op.
 
 # The Videos
-This is a 3000 'Pythoneering educational opportunity: 
+Designed for Pythoneers "**Cartesian Planes and Plotting**" is an educational opportunity for those who understand common Python programming concepts: 
 
- ☑️#1000: [Cartesian Planes and Plotting](https://www.manning.com/livevideo/cartesian-planes-and-plotting)
+ ⏹️#3000: [Cartesian Planes and Plotting](https://www.manning.com/livevideo/cartesian-planes-and-plotting)
 
- ☑️#2000: [Python Events, Frameworks and Shapes](https://www.manning.com/livevideo/python-events-frameworks-and-shapes)
+ ⏹️#4000: [Python Events, Frameworks and Shapes](https://www.manning.com/livevideo/python-events-frameworks-and-shapes)
 
- ⏹️#3000:[Python Modeling and Simulation](https://www.manning.com/livevideo/python-modeling-and-simulation)
+ ⏹️#5000:[Python Modeling and Simulation](https://www.manning.com/livevideo/python-modeling-and-simulation)
+
 
 # The Community
 If you can possibly afford to support the effort then you can gift me a 'cuppa on [ko-fi.com](https://ko-fi.com/randallnagy) and / or join the [Total Pythoneering Nexus](https://rumble.com/account/channel/content?channelId=7945018).
